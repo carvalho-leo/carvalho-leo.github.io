@@ -1,0 +1,48 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Black+Han+Sans|Pacifico');
+
+body {
+  display:inline-block;
+  background-color: black;
+  color:darkgray;
+  font-family: 'Amatic SC', cursive;
+  
+}
+
+#pic {
+  display: flex;
+  justify-content: center;
+  padding-left: 150px;
+  
+
+}
+h1 {
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 44px;
+  border: red groove thick;
+  border-radius: 10px;
+  color:crimson;
+  padding: 10px 20px 5px 20px;
+}
+h2 {
+  font-family: 'Pacifico', cursive;
+ 
+  font-style: italic;
+  color:darkslateblue;
+  border: 4px outset white;
+  padding-left: 230px;
+}
+#sobreMim, #Educacao, #Experiencia, #Habilidades, #Contato, #achievments {
+  padding-left: 320px;
+}
+p {
+  color: fuchsia;
+}
+li{
+  color: darkred;
+  font-family: 'Pacifico', cursive;
+}
+h1, h2{
+  background-color: cadetblue;
+
+}
